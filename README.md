@@ -11,4 +11,7 @@
 - [Open AI Gym](https://github.com/openai/gym)
 - [Mujoco](https://github.com/google-deepmind/mujoco) ==> Physics Simulation for Robotics, BioMechamnics
 
+## RL Guides
+- [SpinningUp](https://spinningup.openai.com/en/latest/)
+- [Gymnasium Documentation](https://gymnasium.farama.org/)
   
