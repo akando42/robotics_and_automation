@@ -9,5 +9,6 @@
 ## Reinforcement Learning
 - [Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
 - [Open AI Gym](https://github.com/openai/gym)
+- [Mujoco](https://github.com/google-deepmind/mujoco) ==> Physics Simulation for Robotics, BioMechamnics
 
   
